@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Principles of Software Engineering and Programming Languages Lab (POSL)](https://posl.ait.kyushu-u.ac.jp/en/), Kyushu University, under the supervision of Prof. [Yasutaka Kamei](https://posl.ait.kyushu-u.ac.jp/~kamei/) and the co-supervision of Prof. [Dong Wang](https://dong-w.github.io/). Before I join the POSL, I obtained my Master degree with distinction at Hong Kong Polytechnic University under the supervision of Prof. [Korris Fu-Lai Chung](https://scholar.google.com/citations?user=D4ErdGoAAAAJ&hl=en).
+I am a Ph.D. student at the [Principles of Software Engineering and Programming Languages Lab (POSL)](https://posl.ait.kyushu-u.ac.jp/en/), Kyushu University, under the supervision of Prof. [Yasutaka Kamei](https://posl.ait.kyushu-u.ac.jp/~kamei/) and the co-supervision of Prof. [Dong Wang](https://dong-w.github.io/). Before I joined the POSL, I obtained my Master degree with distinction at Hong Kong Polytechnic University under the supervision of Prof. [Korris Fu-Lai Chung](https://scholar.google.com/citations?user=D4ErdGoAAAAJ&hl=en).
 
 My research interest lies in AI4Se, especially trustwrothy deep learning for code-related tasks.
 
