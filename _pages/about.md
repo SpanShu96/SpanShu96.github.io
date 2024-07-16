@@ -23,5 +23,4 @@ Work Experience
 
 Contact Information
 ------
-Please feel free to contact the following email if you have any interest or problem regarding my research.
-* Email: shu.honglin.167 at s.kyushu-u.ac.jp
+Please feel free to contact my email: ```shu.honglin.167 at s.kyushu-u.ac.jp``` if you have any interest or problem regarding my research.
