@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Principles of Software Engineering and Programming Languages Lab (POSL)](https://posl.ait.kyushu-u.ac.jp/en/), Kyushu University, under the supervision of Prof. [Yasutaka Kamei](https://posl.ait.kyushu-u.ac.jp/~kamei/) and the co-supervision of Prof. [Dong Wang](https://dong-w.github.io/). Before joining the POSL, I obtained my MSc degree with distinction at Hong Kong Polytechnic University under the supervision of Prof. [Korris Fu-Lai Chung](https://scholar.google.com/citations?user=D4ErdGoAAAAJ&hl=en).
+My name is Honglin Shu (舒 泓霖). I am a Ph.D. student at the [Principles of Software Engineering and Programming Languages Lab (POSL)](https://posl.ait.kyushu-u.ac.jp/en/), Kyushu University, under the supervision of Prof. [Yasutaka Kamei](https://posl.ait.kyushu-u.ac.jp/~kamei/) and the co-supervision of Prof. [Dong Wang](https://dong-w.github.io/). Before joining the POSL, I obtained my MSc degree with distinction at Hong Kong Polytechnic University under the supervision of Prof. [Korris Fu-Lai Chung](https://scholar.google.com/citations?user=D4ErdGoAAAAJ&hl=en).
 
-My research interest lies in AI4SE, especially trustwrothy deep learning for code-related tasks (e.g., software testing and security).
+My research interest lies in deep learning and its application in software engineering, especially trustwrothy deep learning for code-related tasks (e.g., software security & testing).
 
-A data-driven personal website
+# Education Experience
+
+
+
+Work Experience
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
