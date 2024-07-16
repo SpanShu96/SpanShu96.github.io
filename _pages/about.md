@@ -7,14 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-My name is Honglin Shu (舒 泓霖). I am a Ph.D. student at the [Principles of Software Engineering and Programming Languages Lab (POSL)](https://posl.ait.kyushu-u.ac.jp/en/), Kyushu University, under the supervision of Prof. [Yasutaka Kamei](https://posl.ait.kyushu-u.ac.jp/~kamei/) and the co-supervision of Prof. [Dong Wang](https://dong-w.github.io/). Before joining the POSL, I obtained my MSc degree with distinction at Hong Kong Polytechnic University under the supervision of Prof. [Korris Fu-Lai Chung](https://scholar.google.com/citations?user=D4ErdGoAAAAJ&hl=en).
+My name is Honglin Shu (舒 泓霖). I am a PhD student at the [Principles of Software Engineering and Programming Languages Lab (POSL)](https://posl.ait.kyushu-u.ac.jp/en/), Kyushu University, under the supervision of Prof. [Yasutaka Kamei](https://posl.ait.kyushu-u.ac.jp/~kamei/) and the co-supervision of Prof. [Dong Wang](https://dong-w.github.io/). Before joining the POSL, I obtained my MSc degree with distinction at Hong Kong Polytechnic University under the supervision of Prof. [Korris Fu-Lai Chung](https://scholar.google.com/citations?user=D4ErdGoAAAAJ&hl=en).
 
 My research interest lies in deep learning and its application in software engineering, especially trustwrothy deep learning for code-related tasks (e.g., software security & testing).
 
-# Education Experience
+Education Background
+------
+* Present, PhD in Information Science and Technology, Kyushu University, Fukuoka, Japan
+* 2021, MSc in Information Technology, Hong Kong Polytechnic University, Hong Kong SAR, China
+* 2019, BSc in Computer System (Joint Degree), City University of Seattle & Shenzhen Polytechnic University, Settale & Shenzhen, Unite State & China
 
+Work Experience
+------
+* 2021.03 - 2021.12, Research Assistant, Department of Health Technology and Informatic, Hong Kong Polytechnic University, Hong Kong SAR, China
 
-
+<div style="displacy:None">
 Work Experience
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -53,3 +60,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+</div>
