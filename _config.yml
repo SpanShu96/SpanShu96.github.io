@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo.png"
+  avatar           : "Personal_Photo.png"
   name             : "Honglin Shu"
   pronouns         : # example: "she/her"  
   bio              : "C'est la vie"
