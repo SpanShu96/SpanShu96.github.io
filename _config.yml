@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Honglin's Homepage"
+title                    : "Honglin Shu / Webpage"
 title_separator          : "-"
 name                     : &name "Honglin Shu"
 description              : &description "PhD Student from Kyushu University"
