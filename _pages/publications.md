@@ -16,7 +16,7 @@ author_profile: true
 2023
 ------
 * Honglin Shu, Fu-Lai Chung, and Da Lin. "MetaGC-MC: A Graph-based Meta-learning Approach to Cold-start Recommendation with/without Auxiliary Information." Information Sciences, Vol. 623: 791-811, 2023.
-* Honglin Shu, Pei Gao, Lingwei Zhu, Zheng Chen, Yasuko Matsubara, and Yasushi Sakurai. "Drugs Resistance Analysis from Scarce Health Records via Multi-task Graph Representation." In International Conference on Advanced Data Mining and Applications (ADMA), pp. 103-117. Cham: Springer Nature Switzerland, 2023.
+* Honglin Shu, Pei Gao, Lingwei Zhu, Zheng Chen, Yasuko Matsubara, and Yasushi Sakurai. "Drugs Resistance Analysis from Scarce Health Records via Multi-task Graph Representation." In International Conference on Advanced Data Mining and Applications (ADMA), pp. 103-117. 2023.
 
 2022
 ------
