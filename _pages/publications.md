@@ -11,7 +11,8 @@ author_profile: true
 
 2024
 ------
-* Zhao Tian, Honglin Shu, Dong Wang, Xuejie Cao, Yasutaka Kamei, and Junjie Chen. "Large Language Models for Equivalent Mutant Detection: How Far are We?" 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), To Appear, 2024
+* Zhao Tian, Honglin Shu, Dong Wang, Xuejie Cao, Yasutaka Kamei, and Junjie Chen. "Large Language Models for Equivalent Mutant Detection: How Far are We?" 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), To Appear, 2024.
+* Olivier Nourry, Yutaro Kashiwa, Weiyi Shang, Honglin Shu, and Yasutaka Kamei. "My Fuzzer Won't Build: An Empirical Study of Fuzzing Build Failures" ACM Transactions on Software Engineering and Methodology (TOSEM), To Apper, 2024.
 
 2023
 ------
