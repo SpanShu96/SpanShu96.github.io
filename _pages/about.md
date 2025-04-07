@@ -29,6 +29,7 @@ Activities
 Award
 -----
 * ACM SIGSOFT Dinstinguish Paper Award (ISSTA 2024)
+* Kyushu University Innovator Fellowship (Information/AI fields)
 * Nominate as Graduation Representative (HK PolyU)
 * Dean's List (CityU Seattle)
 
