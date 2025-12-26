@@ -25,6 +25,7 @@ Work Experience
 Activities
 -----
 * FSE 2025, Reviewer
+* TSE Reviewer
 
 Award
 -----
